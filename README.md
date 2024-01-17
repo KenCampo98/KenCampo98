@@ -1,4 +1,9 @@
-### Hi there 👋
+- 👋 Hi, I’m Kentaro Campo
+- 👀 I’m interested in technology 
+- 🌱 I’m currently learning coding
+- 💞 I’m looking to collaborate on ...
+- 📫 How to reach me ...
+- ⚡ Fun fact: ...
 
 <!--
 **KenCampo98/KenCampo98** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
