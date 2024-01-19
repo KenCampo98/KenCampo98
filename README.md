@@ -1,3 +1,7 @@
+![Header](Images/Intro Ken.jpg)
+<br>
+<div align="center">
+
 - 👋 Hi, I’m Kentaro Campo
 - 👀 I’m interested in technology 
 - 🌱 I’m currently learning coding
