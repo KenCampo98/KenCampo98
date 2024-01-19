@@ -1,4 +1,4 @@
-![Header](Images/Intro Ken.jpg)
+![Header](Intro Ken.jpg)
 <br>
 <div align="center">
 
