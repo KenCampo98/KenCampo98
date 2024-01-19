@@ -1,4 +1,4 @@
-![Header](Intro Ken.jpg)
+![Header]([Intro Ken.jpg](https://github.com/KenCampo98/KenCampo98/blob/main/Intro%20Ken.jpg))
 <br>
 <div align="center">
 
