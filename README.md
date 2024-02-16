@@ -3,8 +3,6 @@
 
 <img src="/path/to/img.jpg" alt="Alt text" title="Let's create">
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kencampo98" alt="kencampo98" /></a> </p>
-
 - 🔭 I’m currently working on **Cutting-Edge technology bespoke solutions**
 
 - 🌱 I’m currently learning **Master in Coding**
