@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Kentaro Campo</h1>
 <h3 align="center">A passionate Software and Hardware Developer from Mexico City</h3>
 
-<img src="/path/to/img.jpg" alt="Alt text" title="Let's create">
+<img src="C:/Users/kenca/OneDrive/Imágenes/Intro Ken.jpg" alt="Alt text" title="Let's create">
 
 - 🔭 I’m currently working on **Cutting-Edge technology bespoke solutions**
 
